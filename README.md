@@ -4,7 +4,7 @@
 
 
 *	étudiant 🧑‍🎓 @ 42 Paris
-*	diplomé 👨‍🎓 Developpeur web avec Openclassrooms
+*	diplomé 👨‍🎓 Developpeur web @ Openclassrooms
 
 
 🛠 Skills 🛠
@@ -13,8 +13,8 @@
 *	PHP (POO /PDO /MVC)
 *	C
 *	SQL & NoSQL
-*	VSCODE / GIT / PHPMYADMIN
 *	HTML / CSS
 *	SASS / BOOTSTRAP
+*	VSCODE / GIT / PHPMYADMIN
 
 
