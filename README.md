@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi 👋, I'm Félix Barrière
 
-<!--
-**felixbarriere/felixbarriere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior Backend Developpeur
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*	étudiant 🧑‍🎓 @ 42 Paris
+*	diplomé 👨‍🎓 Developpeur web avec Openclassrooms
+
+
+🛠 Skills 🛠
+*	NODE.JS / EXPRESS
+*	VUE JS
+*	PHP (POO /PDO /MVC)
+*	C
+*	SQL & NoSQL
+*	VSCODE / GIT / PHPMYADMIN
+*	HTML / CSS
+*	SASS / BOOTSTRAP
+
+
