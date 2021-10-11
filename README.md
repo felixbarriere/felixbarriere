@@ -9,7 +9,7 @@
 
 🛠 Skills 🛠
 *	NODE.JS / EXPRESS
-*	VUE JS
+*	VUE.JS
 *	PHP (POO / PDO /MVC)
 *	C
 *	SQL & NoSQL
