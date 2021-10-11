@@ -1,4 +1,4 @@
-# Hi 👋, I'm Félix Barrière
+## Hi 👋, I'm Félix Barrière
 
 ### Junior Backend Developpeur
 
