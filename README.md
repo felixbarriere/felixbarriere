@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Félix Barrière
 
-### Junior Backend Developpeur
+### Junior Backend Developper
 
 
 *	étudiant 🧑‍🎓 @ 42 Paris
