@@ -10,9 +10,10 @@
 🛠 Skills 🛠
 *	NODE.JS (EXPRESS)
 *	VUE.JS
-*	PHP (POO / PDO /MVC)
 *	C
-*	SQL
+*	SQL (MySQL, PostgreSQL)
+*	MongoDB
+*	PHP (POO / PDO /MVC)
 *	HTML / CSS
 *	SASS / BOOTSTRAP
 *	VSCODE / GIT / PHPMYADMIN
