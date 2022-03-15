@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Félix Barrière
 
-### Junior Backend Developper
+### Junior Fullstack Developper
 
 
 *	étudiant 🧑‍🎓 @ 42 Paris
