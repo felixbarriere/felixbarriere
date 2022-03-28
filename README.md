@@ -13,7 +13,7 @@
 *	C
 *	SQL (MySQL, PostgreSQL)
 *	MongoDB
-*	PHP (POO / PDO /MVC)
+*	PHP (POO / MVC)
 *	HTML / CSS
 *	SASS / BOOTSTRAP
 *	VSCODE / GIT / PHPMYADMIN
