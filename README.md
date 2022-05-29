@@ -9,6 +9,7 @@
 
 🛠 Skills 🛠
 *	NODE.JS (EXPRESS)
+*	REACT.JS
 *	VUE.JS
 *	C
 *	SQL (MySQL, PostgreSQL)
