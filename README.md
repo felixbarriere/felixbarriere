@@ -8,10 +8,11 @@
 
 
 🛠 Skills 🛠
+*	C++
 *	NODE.JS (EXPRESS)
 *	REACT.JS
-*	VUE.JS
 *	C
+*	VUE.JS
 *	SQL (MySQL, PostgreSQL)
 *	MongoDB
 *	PHP (POO / MVC)
