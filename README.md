@@ -15,7 +15,7 @@
 *	VUE.JS
 *	SQL (MySQL, PostgreSQL)
 *	MongoDB
-*	PHP (POO / MVC)
+*	PHP
 *	HTML / CSS
 *	SASS / BOOTSTRAP
 *	VSCODE / GIT / PHPMYADMIN
