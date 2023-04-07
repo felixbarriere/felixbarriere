@@ -8,9 +8,10 @@
 
 
 🛠 Skills 🛠
-*	C++
+*	NEST.JS
 *	NODE.JS (EXPRESS)
 *	REACT.JS
+*	C++
 *	C
 *	VUE.JS
 *	SQL (MySQL, PostgreSQL)
