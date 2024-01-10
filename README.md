@@ -2,6 +2,7 @@
 
 ### Junior Fullstack Developper
 
+* :computer: @ Smartop.io
 *	:mortar_board: @ 42 Paris
 
 🛠 Skills 🛠
