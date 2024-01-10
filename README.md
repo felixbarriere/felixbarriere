@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Félix Barrière
 
-### Junior Fullstack Developper
+### Fullstack Developper
 
 * :computer: @ Smartop.io
 *	:mortar_board: @ 42 Paris
