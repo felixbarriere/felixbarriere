@@ -2,7 +2,7 @@
 
 ### Junior Fullstack Developper
 
-*	🧑‍🎓 @ 42 Paris
+*	:mortar_board: @ 42 Paris
 
 🛠 Skills 🛠
 * ANGULAR
